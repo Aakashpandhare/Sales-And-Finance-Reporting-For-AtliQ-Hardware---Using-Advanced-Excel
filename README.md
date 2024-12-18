@@ -23,8 +23,11 @@ Finally made a detailed report to evaluate different things such as the Top 10 P
 ## Throughout the journey, I've mastered key skills:
 
 ⦁ Leveraging pivot tables for insightful analysis
+
 ⦁ Harnessing Power Query to clean up data effectively
+
 ⦁ Navigating basic DAX formulas for data manipulation
+
 ⦁ Enhancing data presentation with Conditional Formatting
 ⦁ Elevating the visual appeal of reports
 ⦁ Deepening understanding of crucial sales metrics
