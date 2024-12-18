@@ -29,6 +29,9 @@ Finally made a detailed report to evaluate different things such as the Top 10 P
 ⦁ Navigating basic DAX formulas for data manipulation
 
 ⦁ Enhancing data presentation with Conditional Formatting
+
 ⦁ Elevating the visual appeal of reports
+
 ⦁ Deepening understanding of crucial sales metrics
+
 Ultimately, this project is about arming businesses with the tools and knowledge to monitor sales, drive improvements, and seize new growth prospects. By dissecting sales data, businesses can pave their path to success in a dynamic market landscape.
