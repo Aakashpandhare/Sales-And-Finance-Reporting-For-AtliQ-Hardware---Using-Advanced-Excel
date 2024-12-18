@@ -19,3 +19,13 @@ Made detailed Profit and Loss (P&L) reports by Year, Month, and Quarter level. A
 Also made a report to analyze Gross Margin percentage (GM%) by Quarters (sub_zone).
 
 Finally made a detailed report to evaluate different things such as the Top 10 Products that are doing very well, Division Level Report, Top and Bottom 5 Products, and Top 5 countries.
+
+## Throughout the journey, I've mastered key skills:
+
+⦁ Leveraging pivot tables for insightful analysis
+⦁ Harnessing Power Query to clean up data effectively
+⦁ Navigating basic DAX formulas for data manipulation
+⦁ Enhancing data presentation with Conditional Formatting
+⦁ Elevating the visual appeal of reports
+⦁ Deepening understanding of crucial sales metrics
+Ultimately, this project is about arming businesses with the tools and knowledge to monitor sales, drive improvements, and seize new growth prospects. By dissecting sales data, businesses can pave their path to success in a dynamic market landscape.
